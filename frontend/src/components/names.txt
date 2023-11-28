@@ -1,0 +1,40 @@
+mexico 
+Alejandro García (Age: 34) - Expertise: Mayan archaeology and historical tours.
+Gabriela Morales (Age: 28) - Expertise: Eco-tourism and nature trails in the Yucatan Peninsula.
+Diego Hernández (Age: 40) - Expertise: Tequila distillery tours and cultural heritage exploration.
+Sofia Ramirez (Age: 31) - Expertise: Urban exploration and modern Mexican art scene.
+
+
+United States:
+Samantha Johnson (Age: 32) - Expertise: Wilderness trekking and national park adventures.
+Nathan Thompson (Age: 36) - Expertise: Historical walking tours in major cities like New York and Boston.
+Emily White (Age: 29) - Expertise: Food tours and culinary experiences across different states.
+Daniel Lee (Age: 41) - Expertise: Outdoor expeditions, especially in the Rocky Mountains.
+
+
+
+
+Spain:
+Javier Rodríguez (Age: 39) - Expertise: Flamenco history and performances in Andalusia.
+Marta López (Age: 27) - Expertise: Tapas tours and local markets in Barcelona.
+Carlos Martínez (Age: 33) - Expertise: Gaudi architecture tours in Barcelona.
+
+
+France:
+Camille Dubois (Age: 35) - Expertise: Art history tours in Parisian museums like the Louvre and Musée d'Orsay.
+Antoine Bernard (Age: 30) - Expertise: Wine tasting and vineyard tours in Bordeaux.
+Juliette Moreau (Age: 37) - Expertise: Cycling tours through the French countryside and Provence.
+
+
+
+Morocco:
+Fatima El Amrani (Age: 42) - Expertise: Desert safaris and Berber culture in the Atlas Mountains.
+Jamal Malik (Age: 33) - Expertise: Medina tours and traditional Moroccan craftsmanship.
+Aisha Rahman (Age: 26) - Expertise: Atlas trekking and cultural immersion in rural villages.
+
+
+
+India:
+Rajesh Patel (Age: 31) - Expertise: Heritage tours of ancient temples and historical sites in Rajasthan.
+Priya Sharma (Age: 29) - Expertise: Yoga and spiritual retreats in the Himalayas.
+Arjun Kapoor (Age: 36) - Expertise: Wildlife safaris and biodiversity exploration in national parks.
