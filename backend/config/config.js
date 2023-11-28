@@ -1,24 +1,24 @@
 require('dotenv').config();
 module.exports = {
   "development": {
-    "username": "postgres",
+    "username": "vozybkta",
     "password": process.env.PASSWORD,
-    "database": "dev",
-    "host": "127.0.0.1",
+    "database": "vozybkta",
+    "host": "hansken.db.elephantsql.com",
     "dialect": "postgres"
   },
   "test": {
-    "username": "postgres",
+    "username": "vozybkta",
     "password": process.env.PASSWORD,
-    "database": "dev",
-    "host": "localhost",
+    "database": "vozybkta",
+    "host": "hansken.db.elephantsql.com",
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgres",
+    "username": "vozybkta",
     "password": process.env.PASSWORD,
-    "database": "dev",
-    "host": "localhost",
+    "database": "vozybkta",
+    "host": "hansken.db.elephantsql.com",
     "dialect": "postgres"
   }
 }
