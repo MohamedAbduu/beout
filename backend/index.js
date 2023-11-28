@@ -28,6 +28,12 @@ app.use(
 	})
 );
 
+app.use((req, res, next) => {
+	res.header('Access-Control-Allow-Origin', 'https://beout-frontend.onrender.com/');
+	next();
+  });
+
+
 const isLoggedIn = (req, res, next) => {
 	if (req.session.user) {
 		next();
@@ -61,6 +67,7 @@ app.post('/register', (req, res) => {
 app.get('/test', (req, res)=>{
   res.json('hello world')
 });
+
 
 // Logs in users
 app.post('/login', (req, res) => {
