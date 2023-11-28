@@ -11,7 +11,7 @@ const UserSignUp = () => {
         <h1 className="text-3xl font-semibold text-center text-black-700">
           Sign up
         </h1>
-        <form className="mt-6" action="/register" method="post">
+        <form className="mt-6" action="https://beout-backend.onrender.com/register" method="post">
           <div className="mb-2">
             <label htmlFor="name" className="block text-sm font-semibold text-gray-800">
               Name

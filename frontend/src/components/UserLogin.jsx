@@ -8,7 +8,7 @@ function UserLogin() {
         <h1 className="text-3xl font-semibold text-center text-purple-700 underline">
           Sign in
         </h1>
-        <form className="mt-6" action="/login" method="post">
+        <form className="mt-6" action="https://beout-backend.onrender.com/login" method="post">
           <div className="mb-2">
             <label
               htmlFor="email"
