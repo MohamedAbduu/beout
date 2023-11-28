@@ -53,8 +53,8 @@ const UserSignUp = () => {
             />
           </div>
           <div className="mt-6">
-            {/* Updated button color to gray */}
-            <button className="w-full px-4 py-2 tracking-wide text-white transition-colors duration-200 transform bg-gray-500 rounded-md hover:bg-gray-400 focus:outline-none focus:bg-gray-400">
+            
+            <button type='submit'  className="w-full px-4 py-2 tracking-wide text-white transition-colors duration-200 transform bg-gray-500 rounded-md hover:bg-gray-400 focus:outline-none focus:bg-gray-400">
               Sign up
             </button>
           </div>

@@ -62,7 +62,7 @@ app.post('/register', (req, res) => {
 
 	Users.create({ firstName, email, password: hashPassword }).then(
 		(new_user) => {
-			res.redirect('/login');
+			res.redirect('https://beout-frontend.onrender.com/login');
 		}
 	);
 });
