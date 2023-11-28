@@ -31,7 +31,7 @@ app.use(
 
 app.use(
   cors({
-    origin: 'https://beout-frontend.onrender.com/',
+    origin: 'https://beout-frontend.onrender.com',
   })
 ); 
 

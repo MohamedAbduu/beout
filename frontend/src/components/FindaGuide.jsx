@@ -6,7 +6,10 @@ const FindaGuide = () => {
   const [countryId, setCountryId] = useState('');
 
   const fetchGuides = () => {
-    fetch(`https://beout-backend.onrender.com/guides/${countryId}`)
+    fetch(`https://beout-backend.onrender.com/guides/${countryId}`,
+    {headers: {
+      "Content-Type": "application/json",
+    }},)
       .then(res => res.json())
       .then(data => setGuides(data));
   };
