@@ -1,7 +1,7 @@
 {
   "name": "capstone-app",
   "version": "0.1.0",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://vercel.com/adnans-projects-3efcf7ec/beout/93LqAJ59A7cz5CfnFcGW3Nae1U89",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.17",
