@@ -29,7 +29,11 @@ app.use(
 	})
 );
 
-app.use(cors({ credentials: true, origin: 'https://beout-frontend.onrender.com/' }));
+app.use(
+  cors({
+    origin: 'https://beout-frontend.onrender.com/',
+  })
+); 
 
 
 const isLoggedIn = (req, res, next) => {
