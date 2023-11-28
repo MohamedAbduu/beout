@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const { Users, Guides, sequelize } = require('./models');
 const { Op } = require('sequelize');
 
@@ -28,10 +29,7 @@ app.use(
 	})
 );
 
-app.use((req, res, next) => {
-	res.header('Access-Control-Allow-Origin', 'https://beout-backend.onrender.com/');
-	next();
-  });
+app.use(cors({ credentials: true, origin: 'https://beout-frontend.onrender.com/' }));
 
 
 const isLoggedIn = (req, res, next) => {
